@@ -1,43 +1,43 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "mohamed",
-      "age": 25,
-      "gender": "male",
-      "text": "Some text blah blah...",
-      "img": "assets/img/1.jpg",
-      "rate": "4/5"
-    },
-    {
-      "id": 2,
-      "name": "ali",
-      "age": 25,
-      "gender": "male",
-      "text": "Another text here...",
-      "img": "assets/img/1.jpg",
-      "rate": "2/5"
-    }
-  ],
-  "students": [
-    {
-      "username": "test",
-      "email": "test@test.com",
-      "password": "123",
-      "id": 1
-    }
-  ],
-  "doctor": [
-    {
-      "email": "admin@admin.com",
-      "password": "123",
-      "id": 1
-    }
-  ],
-  "login": [
-    {
-      "role": "doctor",
-      "id": 1
-    }
-  ]
+    "users": [
+        {
+            "id": 1,
+            "name": "mohamed",
+            "age": 25,
+            "gender": "male",
+            "text": "Some text blah blah...",
+            "img": "assets/img/1.jpg",
+            "rate": "4/5"
+        },
+        {
+            "id": 2,
+            "name": "ali",
+            "age": 25,
+            "gender": "male",
+            "text": "Another text here...",
+            "img": "assets/img/1.jpg",
+            "rate": "2/5"
+        }
+    ],
+    "students": [
+        {
+            "username": "test",
+            "email": "test@test.com",
+            "password": "123",
+            "id": 1
+        }
+    ],
+    "doctor": [
+        {
+            "email": "admin@admin.com",
+            "password": "123",
+            "id": 1
+        }
+    ],
+    "login": [
+        {
+            "role": "doctor",
+            "id": 1
+        }
+    ]
 }
